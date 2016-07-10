@@ -13,7 +13,7 @@
 ### Authores
 > [Nuno Cameira](https://github.com/nuno-cameira)
 >
-> [Vasco Loureiro](https://github.com/Vascko)
+> [Vasco Loureiro](https://github.com/UTurista)
 
 ---------------------------------------
 ## What is it
