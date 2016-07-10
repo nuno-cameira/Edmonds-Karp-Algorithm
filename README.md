@@ -20,21 +20,20 @@
 >Edmonds–Karp Algorithm is an implementation of the Ford–Fulkerson method for computing the maximum flow in a flow network. The algorithm was first published by Yefim (Chaim) Dinic in 1970 and independently published by Jack Edmonds and Richard Karp in 1972.
 
 ## Implementation
-The requested project consisted in receiving an input with the following format:
+The requested project consists in receiving an input with the following format:
  
     N S     	(line 1)
     A B     	(line 2)
     ...
-	K			(line S+1)
-	Z E ... U	(line S+2)
-	...
-	
+    K			(line S+1)
+    Z E ... U	(line S+2)
+    ...
 
-> N was the ammount of nodes, S the number of connections and the following lines defined each connection between the nodes.
-> K is the number of problems to solve (in the lines below)
-> Z is the ammount of critical nodes, E ... U are those critical nodes
 
-and we would need to return 1 value for each problem
+> N is the ammount of nodes, S the number of connections and the following lines defined each connection between the nodes.
+> K is the number of problems to solve (in the lines below), Z is the ammount of critical nodes, E ... U are those critical nodes
+
+and we need to return 1 value for each problem
 
 	R - Minimum number of connections needed to solve the problem
     
