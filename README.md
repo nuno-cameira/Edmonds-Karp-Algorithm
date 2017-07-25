@@ -25,7 +25,7 @@ The requested project consists in receiving an input with the following format:
     N S     	(line 1)
     A B     	(line 2)
     ...
-    K			(line S+1)
+    K		(line S+1)
     Z E ... U	(line S+2)
     ...
 
